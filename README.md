@@ -18,11 +18,12 @@ Motivated to shift career in cybersecurity as part of a Blue Team, where I can a
 
 ## Certifications
 <div>
+  <a href="https://www.credly.com/badges/5e1d1eff-5435-4911-a415-1b5ebcf79698/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grandstream%20Networking%20Solution-0033A0?&style=for-the-badge&logoColor=white" />
 </div>
-
 
 ## Projects
 - ON GOING!
