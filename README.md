@@ -10,11 +10,21 @@ An aspiring SOC Analyst with hands-on experience in networked security systems, 
 
 Motivated to shift career in cybersecurity as part of a Blue Team, where I can apply my skills in threat detection, log analysis, and network defense to help protect systems from evolving threats.
 
-## Tools
-#### • Programming Language: Python, C++  
-#### • Networking: Ruijee Reyee, Dahua, HikVision 
-#### • Engineering Softwares: AutoCAD, SketchUP, ArduinoIDE 
-#### • Microsoft Offices
+## **Tools**
+
+#### **Programming Languages**: Python, C++
+
+#### **Networking Solutions**: Ruijie Reyee, Dahua, Hikvision, Grandstream
+
+#### **Engineering Software**: AutoCAD, SketchUp, Arduino IDE
+
+#### **SIEM Tools**: Splunk *(basic knowledge)*
+
+#### **Databases**: MySQL *(basic knowledge)*
+
+#### **Productivity Tools**: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
+
+
 
 ## Certifications
 <div>
