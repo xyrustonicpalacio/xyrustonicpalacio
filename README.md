@@ -12,17 +12,17 @@ Motivated to shift career in cybersecurity as part of a Blue Team, where I can a
 
 ## **Tools**
 
-#### **Programming Languages**: Python, C++
+**Programming Languages**: Python, C++
 
-#### **Networking Solutions**: Ruijie Reyee, Dahua, Hikvision, Grandstream
+**Networking Solutions**: Ruijie Reyee, Dahua, Hikvision, Grandstream
 
-#### **Engineering Software**: AutoCAD, SketchUp, Arduino IDE
+**Engineering Software**: AutoCAD, SketchUp, Arduino IDE
 
-#### **SIEM Tools**: Splunk *(basic knowledge)*
+**SIEM Tools**: Splunk *(basic knowledge)*
 
-#### **Databases**: MySQL *(basic knowledge)*
+**Databases**: MySQL *(basic knowledge)*
 
-#### **Productivity Tools**: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
+**Productivity Tools**: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
 
 
 
